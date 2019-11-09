@@ -4,8 +4,8 @@ Tweeter is a single page Ajax based twitter clone using HTML5 , CSS.
 
 ## Final Product
 
-!["screenshot of home screen"](#)
-!["screenshot of tweet-box"](#)
+!["screenshot of home screen"](https://github.com/praneeth91/tweeter/blob/master/docs/Home.png)
+!["screenshot of tweet-box"](https://github.com/praneeth91/tweeter/blob/master/docs/New-Tweet.png)
 
 ## Dependencies
 
