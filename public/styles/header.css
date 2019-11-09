@@ -1,0 +1,23 @@
+
+header {
+  margin-top: 120px;
+  height: 400px;
+  width: 100%;
+  background-color: #d68e36;
+  background-image: url(https://www.transparenttextures.com/patterns/45-degree-fabric-light.png);
+  text-align: center;
+  color: #ffffff;
+  ;
+}
+img {
+  padding: 7px;
+}
+@media screen and (min-width:1024px){
+  header {
+    width: 30%;
+    margin-top: 240px;
+    margin-left: 50px;
+    height: 400px;
+    float: left;
+  }
+}

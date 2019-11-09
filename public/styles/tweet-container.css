@@ -1,0 +1,31 @@
+.tweet-container {
+  padding: 10px;
+  border: 2px solid black;
+  margin: 2%;
+  
+}
+span.tweet-container-left {
+  float: left;
+  
+}
+
+.article-text {
+  width: 100%;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  padding: 5px;
+  border-bottom: 1px solid black;
+  background-color: #d6cdc3;
+  background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");}
+}
+.header-right {
+float: right;
+}
+.tweet-container:hover{
+  box-shadow:5px 5px;
+}
+.footer-right {
+  float: right;
+  color:#4056A1;
+}

@@ -1,0 +1,27 @@
+.counter {
+  color:black;
+  float: right;
+  font-family: bungee,sans-serif;
+  font: bold;
+
+}
+.tweet-box {
+  width: 100%;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  background-color: #d6cdc3;
+  background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+  
+  border-bottom: 5px solid black;
+  border-bottom-width: 2px; 
+  text-align: left;
+}
+.tweet-button {
+  background-color:#4056A1;
+  font-family: bungee,sans-serif;
+  color: aliceblue;
+  float: left;
+}
+.new-tweet {
+margin: 2%;}

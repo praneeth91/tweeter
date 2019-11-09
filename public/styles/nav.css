@@ -1,0 +1,48 @@
+
+nav {
+    position: fixed;
+    top: 0;
+    height: 120px;
+    width: 100vw;
+    background-color: #d68e36;
+    background-image: url(https://www.transparenttextures.com/patterns/45-degree-fabric-light.png);
+    font-family: bungee, sans-serif;
+    padding: 1.5rem;
+    color: #ffffff;
+
+}
+#logo-container {
+  font-size: 200%;
+}
+.new-tweet-nav {
+font-family: sans-serif;
+float: right;
+}
+#arrow-icon {
+  color: red;
+  float: inherit;
+  padding-right: 50%;
+  background-color: #d68e36;
+  background-image: url(https://www.transparenttextures.com/patterns/45-degree-fabric-light.png);
+  margin: 0;
+  border:0;
+  cursor: pointer;
+  animation:bounce 400ms;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+}
+
+@keyframes bounce {
+  0% {transform: translateY(0);} 
+  100% {transform: translateY(-6px);} 
+}
+@media screen and (min-width:1024px){
+  nav {
+    background-color: #4056A1;
+    color: #ffffff;
+  }
+  #arrow-icon {
+    background-color: #4056A1;
+  }
+}
+
